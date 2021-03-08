@@ -1,3 +1,3 @@
-num1 = int(input("Enter first number:"))
-num2 = int(input("Enter second number:"))
-print(num1, " + ", num2, " = ", num1 + num2)
+num1 = input()
+num2 = input()
+print(int(num1) + int(num2))
